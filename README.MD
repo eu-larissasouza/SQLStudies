@@ -1,7 +1,7 @@
-![GitHub](https://img.shields.io/github/license/eu-larissasouza/sql_studies?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/eu-larissasouza/sql_studies?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/eu-larissasouza/sql_studies?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/eu-larissasouza/sql_studies.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/eu-larissasouza/SQLStudies?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/eu-larissasouza/SQLStudies?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/eu-larissasouza/SQLStudies?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/eu-larissasouza/SQLStudies.svg?cache=remove)
 
 # SQL Studies - Repositório
 
@@ -13,7 +13,7 @@ Este é meu espaço pessoal para documentar e organizar minha jornada através d
 - [Introdução](#introdução)
 - [Cursos](#cursos)
 - [HackerRank](#hackerrank)
-- [Projetos](#projetos)
+<!-- - [Projetos](#projetos) -->
 - [Licença](#licença)
 
 ## Introdução
@@ -22,7 +22,7 @@ SQL (Structured Query Language), é uma poderosa linguagem de programação para
 
 Por outro lado, PL/SQL (Procedural Language/Structured Query Language), é uma extensão procedural da linguagem SQL utilizada em bancos de dados Oracle, a qual adiciona recursos de programação procedural, como loops, condicionais e exceções.
 
-O presente repositório é dedicado à sua jornada contínua de aprendizado em SQL, onde você encontrará conteúdos, desafios e projetos relacionados aos cursos que estou realizando para estudar Análise de Dados.
+O presente repositório é dedicado à sua jornada contínua de aprendizado em SQL, onde você encontrará conteúdos, desafios e projetos relacionados aos cursos que estou realizando para estudar essa linguagem.
 
 ## Cursos
 
@@ -32,18 +32,13 @@ O presente repositório é dedicado à sua jornada contínua de aprendizado em S
    - Descrição: Aprenda a analisar bancos de dados de negócio com SQL para análise de dados. O curso aborda desde conceitos básicos até conceitos mais avançados, demonstrando técnicas com cases que simulam situações reais no dia-a-dia de um analista de dados.
    - Status: Completo
 
-2. **Programação em Bancos de Dados com PL/SQL- FIAP ON**
-   - Plataforma: FIAP ON
-   - Descrição: Aprenda Programação em Bancos de Dados e como ela proporciona o uso de estruturas que não são do escopo do SQL puro. O curso aborda conceitos de definição de constantes e variáveis, estruturas de decisão, estruturas de repetição e tratamentos de exceção, entre outros.
-   - Status: Em Progresso
-
 ## HackerRank
 
 - Existe uma pasta dedicada a documentar todos os desafios de SQL do HackerRank que desenvolvi uma solução durante meus estudos. Há desafios de SQL no nível fácil, médio, e difícil.
 
-## Projetos
+<!-- ## Projetos
 
-- Em construção
+- Em construção -->
 
 ## Licença
 
